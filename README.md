@@ -12,8 +12,6 @@ https://docs.python.org/zh-cn/3.10/
 
 ## git初始化
 
-echo "# HogCK23Syudy" >> README.md
-
 git init
 
 git add README.md
